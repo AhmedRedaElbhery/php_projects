@@ -1,0 +1,18 @@
+
+#icon {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+#p1 {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+
+    #p1 div {
+        margin-top: 16px;
+        width: 360px;
+        margin-bottom: 15px;
+        margin-left: 6px;
+    }
